@@ -530,3 +530,17 @@ FTP into your virtual machine via `ftp <ip-address>`.
 $ ftp <ip-address>
 ```
 Terminate FTP session at any time via `CTRL + D`.
+
+# Born2beroot
+Born2beroot (42cursus) 2021-2022
+
+- Actual Status : finished.
+- Result        :  ![zrdouane's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1jrultt001109l51mtgnmck/project/2457921)
+- Observations : (null)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+This is my Born2beroot project from the 42 cursus,
+if you need a help feel free to contact me:
+ zrdouane@student.1337.ma
